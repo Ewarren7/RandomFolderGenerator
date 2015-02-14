@@ -1,0 +1,24 @@
+C:\Users\Edward\AppData\Local\Temporary Projects\RandomFolder\bin\Debug\RandomFolder.exe.config
+C:\Users\Edward\AppData\Local\Temporary Projects\RandomFolder\bin\Debug\RandomFolder.exe
+C:\Users\Edward\AppData\Local\Temporary Projects\RandomFolder\bin\Debug\RandomFolder.pdb
+C:\Users\Edward\AppData\Local\Temporary Projects\RandomFolder\bin\Debug\RandomFolder.xml
+C:\Users\Edward\AppData\Local\Temporary Projects\RandomFolder\obj\Debug\RandomFolder.Resources.resources
+C:\Users\Edward\AppData\Local\Temporary Projects\RandomFolder\obj\Debug\RandomFolder.vbproj.GenerateResource.Cache
+C:\Users\Edward\AppData\Local\Temporary Projects\RandomFolder\obj\Debug\RandomFolder.exe
+C:\Users\Edward\AppData\Local\Temporary Projects\RandomFolder\obj\Debug\RandomFolder.xml
+C:\Users\Edward\AppData\Local\Temporary Projects\RandomFolder\obj\Debug\RandomFolder.pdb
+C:\Users\Edward\AppData\Local\Temporary Projects\RandomFolder\obj\Debug\RandomFolder.Form1.resources
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\bin\Debug\RandomFolder.exe.config
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\obj\Debug\RandomFolder.exe
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\obj\Debug\RandomFolder.xml
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\obj\Debug\RandomFolder.pdb
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\obj\Debug\RandomFolder.Form1.resources
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\obj\Debug\RandomFolder.Resources.resources
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\obj\Debug\RandomFolder.vbproj.GenerateResource.Cache
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\bin\Debug\RandomFolder.exe
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\bin\Debug\RandomFolder.pdb
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\bin\Debug\RandomFolder.xml
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\bin\Debug\RandomFolder.exe.manifest
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\bin\Debug\RandomFolder.application
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\obj\Debug\RandomFolder.exe.manifest
+\\192.168.27.5\Ted\Important\Visual Studio Projects\Visual Studio 2012\Projects\randomfolder\RandomFolder\RandomFolder\obj\Debug\RandomFolder.application
