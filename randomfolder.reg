@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\randomfoldermaker]
+@="Make Random Folder Here"
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\randomfoldermaker\command]
+@="\"C:\\temp\\randomfolder.exe\" \"%w\"
