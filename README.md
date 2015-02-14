@@ -5,5 +5,5 @@ Includes windows registry file to add 'make random folder' shell menu item that 
 
 The %w in the registry file passes the path of the current folder as an arguement to 
 
-## Possible uses include easily make folders that will be on a public webserver in non browsable directories. The folder will only be accessible to those who know the path and thus secerity is pimarily dervied from the length and randomness of the path. 
-
+## Possible uses 
+- Easly make folders that will be on a public webserver in non browsable directories. The folder will only be accessible to those who know the path and thus security is pimarily dervied from the length and randomness of the path. 
